@@ -1,20 +1,18 @@
-## Bem-vindo(a) ao perfil do JoaoChavess
+👋 Olá! Sou o João
 
- <div>
-   <a href="https://github.com/JoaoChavess">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoChavess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoChavess&layout=compact&langs_count=6&theme=dracula"/>
+☁️ Estudante de AWS Cloud | AWS re/Start + Santander
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br> 
-<div> 
- 
-  ![Snake animation](https://github.com/JoaoChavess/JoaoChavess/blob/output/github-contribution-grid-snake.svg)
+🎯 Iniciei minha jornada na computação em nuvem para construir soluções escaláveis e seguras.
+🐧 Praticando Linux (Ubuntu) diariamente.
+🚀 Objetivo: Me tornar um Especialista em AWS e contribuir com projetos open-source.
 
-</div>
+🛠️ Ferramentas que estou aprendendo
+- Linux (Ubuntu), Terminal, Git
+- AWS (em andamento - re/Start)
+- Python (próximos passos)
+
+📊 GitHub em construção
+Este é meu primeiro contato com o GitHub. Acompanhe minha evolução!
+
+📫 Como me encontrar
+www.linkedin.com/in/joao-victor-291782342
