@@ -7,6 +7,10 @@
 <div align="center">
   <strong>☁️ Estudante de AWS Cloud | AWS re/Start + Santander</strong>
 </div>
+<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=400&lines=echo+%22Ol%C3%A1%2C+mundo+cloud!%22;sudo+apt+install+aws-cli;Estudante+AWS+re%2FStart;%3E_+construindo+meu+futuro+na+nuvem" />
+</div>
 
 ---
 
