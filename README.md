@@ -1,18 +1,54 @@
-👋 Olá! Sou o João
+# 👋 Olá! Sou o João Chaves
 
-☁️ Estudante de AWS Cloud | AWS re/Start + Santander
+<div align="center">
+  <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="120" />
+</div>
 
-🎯 Iniciei minha jornada na computação em nuvem para construir soluções escaláveis e seguras.
-🐧 Praticando Linux (Ubuntu) diariamente.
-🚀 Objetivo: Me tornar um Especialista em AWS e contribuir com projetos open-source.
+<div align="center">
+  <strong>☁️ Estudante de AWS Cloud | AWS re/Start + Santander</strong>
+</div>
 
-🛠️ Ferramentas que estou aprendendo
-- Linux (Ubuntu), Terminal, Git
-- AWS (em andamento - re/Start)
-- Python (próximos passos)
+---
 
-📊 GitHub em construção
-Este é meu primeiro contato com o GitHub. Acompanhe minha evolução!
+### 🎯 Minha Jornada
 
-📫 Como me encontrar
-www.linkedin.com/in/joao-victor-291782342
+<table>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Iniciei meus estudos em nuvem em março de 2026</strong></td>
+  </tr>
+  <tr>
+    <td>🐧</td>
+    <td><strong>Praticando Linux (Ubuntu) diariamente no meu PC</strong></td>
+  </tr>
+  <tr>
+    <td>🔧</td>
+    <td><strong>Aprendendo Git, GitHub e documentação de projetos</strong></td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tecnologias que estou aprendendo
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,bash,github&theme=dark" />
+</div>
+
+---
+
+### 📂 Meu primeiro projeto
+
+<div align="center">
+  <a href="https://github.com/JoaoChavess/limpar-ram-ubuntu">
+    <strong>🔧 limpar-ram-ubuntu</strong>
+  </a>
+  <br/>
+  <em>Script que limpa a RAM do Ubuntu com um duplo clique na área de trabalho</em>
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ Este perfil está em construção. Acompanhe minha evolução!</sub>
+</div>
