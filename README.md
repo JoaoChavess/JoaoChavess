@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <strong>☁️ Estudante de AWS Cloud | AWS re/Start + Santander</strong>
+  <strong>☁️ Cloud Computing (AWS re/Start) | 🛡️ Segurança Cibernética (Senac)</strong>
 </div>
 <br/>
 <div align="center">
@@ -20,6 +20,9 @@
   <tr>
     <td>🚀</td>
     <td><strong>Iniciei meus estudos em nuvem em março de 2026</strong></td>
+  </tr>
+    <td>🎓</td>
+    <td><strong>Iniciei a faculdade de Segurança Cibernética (Senac) em agosto de 2026</strong></td>
   </tr>
   <tr>
     <td>🐧</td>
@@ -37,6 +40,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,bash,github&theme=dark" />
+  <img src="https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge" />
 </div>
 
 ---
@@ -49,6 +53,17 @@
   </a>
   <br/>
   <em>Script que limpa a RAM do Ubuntu com um duplo clique na área de trabalho</em>
+</div>
+
+</p>
+</p>  
+
+<div align="center">
+  <a href="https://github.com/JoaoChavess/linux-security-monitor">
+    <strong>🛡️ linux-security-monitor</strong>
+  </a>
+  <br/>
+  <em>Script Python que monitora sinais de segurança em sistemas Linux — login falho, uso de sudo, portas abertas</em>
 </div>
 
 ---
