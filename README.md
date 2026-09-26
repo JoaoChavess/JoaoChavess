@@ -1,4 +1,4 @@
-# 👋 Olá! Sou o João Chaves
+# Olá! Sou o João Chaves
 
 <div align="center">
   <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="120" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 📂 Meu primeiro projeto
+### 📂 Meus projetos
 
 <div align="center">
   <a href="https://github.com/JoaoChavess/limpar-ram-ubuntu">
